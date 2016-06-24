@@ -28,6 +28,7 @@ require 'eligible/payer'
 require 'eligible/preauth_resource'
 require 'eligible/precert'
 require 'eligible/referral'
+require 'eligible/registration'
 
 # Errors
 require 'eligible/errors/eligible_error'
